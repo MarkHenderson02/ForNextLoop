@@ -1,0 +1,12 @@
+G:\52020007\Pemg Visual\Modul 4\ForNextLoop\bin\Debug\ForNextLoop.exe.config
+G:\52020007\Pemg Visual\Modul 4\ForNextLoop\bin\Debug\ForNextLoop.exe
+G:\52020007\Pemg Visual\Modul 4\ForNextLoop\bin\Debug\ForNextLoop.pdb
+G:\52020007\Pemg Visual\Modul 4\ForNextLoop\bin\Debug\ForNextLoop.xml
+G:\52020007\Pemg Visual\Modul 4\ForNextLoop\obj\Debug\ForNextLoop.vbproj.AssemblyReference.cache
+G:\52020007\Pemg Visual\Modul 4\ForNextLoop\obj\Debug\ForNextLoop.Form1.resources
+G:\52020007\Pemg Visual\Modul 4\ForNextLoop\obj\Debug\ForNextLoop.Resources.resources
+G:\52020007\Pemg Visual\Modul 4\ForNextLoop\obj\Debug\ForNextLoop.vbproj.GenerateResource.cache
+G:\52020007\Pemg Visual\Modul 4\ForNextLoop\obj\Debug\ForNextLoop.vbproj.CoreCompileInputs.cache
+G:\52020007\Pemg Visual\Modul 4\ForNextLoop\obj\Debug\ForNextLoop.exe
+G:\52020007\Pemg Visual\Modul 4\ForNextLoop\obj\Debug\ForNextLoop.xml
+G:\52020007\Pemg Visual\Modul 4\ForNextLoop\obj\Debug\ForNextLoop.pdb
